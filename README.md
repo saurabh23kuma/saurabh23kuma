@@ -3,7 +3,7 @@
 <h1>🚀Skills</h1>
 <ul dir="auto">
 <li>
-<p dir="auto"><strong>Languages:</strong> HTML, CSS, JavaScript ,Python</p>
+<p dir="auto"><strong>Languages:</strong> HTML, CSS, JavaScript</p>
 </li>
 <li>
 <p dir="auto"><strong>Frameworks/Libraries:</strong> React</p>
